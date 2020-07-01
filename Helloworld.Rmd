@@ -1,0 +1,15 @@
+---
+title: "HelloWorld"
+author: "emily"
+date: "7/1/2020"
+output: pdf_document
+---
+
+## R Markdown
+This is a markdown file
+```{r}
+print("This is a markdown file")
+```
+
+
+
